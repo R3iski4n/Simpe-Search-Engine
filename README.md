@@ -1,1 +1,1 @@
-# Simpe-Search-Engine
+# Simple-Search-Engine
